@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js",
     "service": "node service.js",
     "lists": "node 1.for-forin-forof.js",
+    "map": "node 2.map.js",
     "i": "yarn add"
   },
   "license": "MIT",
