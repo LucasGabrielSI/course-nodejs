@@ -6,6 +6,7 @@
     "service": "node service.js",
     "lists": "node 1.for-forin-forof.js",
     "map": "node 2.map.js",
+    "filter": "node 3.filter.js",
     "i": "yarn add"
   },
   "license": "MIT",
