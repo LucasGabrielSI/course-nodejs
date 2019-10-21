@@ -7,6 +7,7 @@
     "lists": "node 1.for-forin-forof.js",
     "map": "node 2.map.js",
     "filter": "node 3.filter.js",
+    "reduce": "node 4.reduce.js",
     "i": "yarn add"
   },
   "license": "MIT",
